@@ -1,0 +1,15 @@
+#ifndef USERAPLICATIONSECTION_H
+#define USERAPLICATIONSECTION_H
+
+
+class UserAplicationSection
+{
+public:
+    UserAplicationSection();
+
+    static bool setLoggedUserId(int id);
+
+
+};
+
+#endif // USERAPLICATIONSECTION_H
