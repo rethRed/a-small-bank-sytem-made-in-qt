@@ -5,3 +5,5 @@ The program has a login screen and a sign up screen where the users can access t
 The system also has a small database that is rebuilded every time the aplication in opened.
 
 I tried to follow a basic design pattern to keep the code organized, i hope you like it!
+
+The aplication is built with QMake and Qt -v 6.2.4
